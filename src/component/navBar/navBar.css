@@ -1,0 +1,18 @@
+.nav_bar {
+  padding: 20px;
+  background: #939393;
+}
+.nav_bar ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav_bar ul li {
+  list-style: none;
+}
+
+.nav_bar ul .active a {
+  color: #d20000;
+  -webkit-text-stroke: thin;
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Internationalizing with i18next",
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and russian using buttons above."
+  },
+  "utils": {
+    "getData": "Get data",
+    "getDataProfile": "Get data profile",
+    "getDataTimeZone": "Get data timeZone"
+  },
+  "lang": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "nav": {
+    "home": "Home",
+    "form": "Form",
+    "timeZone": "timeZone",
+    "chat": "Chat",
+    "ramilForm": "Form by Ramil",
+    "flexBox": "Flex",
+    "grid": "Grid"
+  },
+  "counter": {
+    "days": "{{count}} day",
+    "days_plural": "{{count}} days"
+  },
+  "form": {
+    "reusableForms": "Reusable forms",
+    "formik": "Formik",
+    "hookForm": "Hook form",
+    "ramilForm": "Form by Ramil",
+    "send": "Send",
+    "loading": "Loading"
+  },
+  "timeZone": {
+    "time": "Time",
+    "date": "Date",
+    "chooseTimeZone": "Choose timeZone",
+    "nowThisRegion": "Now in this region"
+  }
+}
